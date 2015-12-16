@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.smc.johnny.main.application.TasRobot
+Class-Path: lib/db2jcc_license_cu.jar 
+            lib/db2jcc.jar 
+            lib/mail-nosig.jar
+            lib/joda-time-2.0.jar
+            lib/log4j-1.2.16.jar
